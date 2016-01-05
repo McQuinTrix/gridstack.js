@@ -633,7 +633,7 @@ If you're using knockout there is no need for such method at all.
 ## Override resizable/draggable options
 
 You can override default `resizable`/`draggable` options. For instance to enable other then bottom right resizing handle
-you can init gridsack like:
+you can init gridstack like:
 
 ```javascript
 $('.grid-stack').gridstack({
